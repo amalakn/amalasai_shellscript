@@ -1,8 +1,3 @@
-# app.py
-# This is a test commit
-def add(a, b):
-    return a + b
+## Test File
 
-def test_add():
-    assert add(1, 2) == 3
-    assert add(1, 7) == 0
+print("Test file")
